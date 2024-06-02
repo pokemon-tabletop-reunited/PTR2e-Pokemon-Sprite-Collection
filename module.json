@@ -29,5 +29,9 @@
         "ptr2e-species-art": "/modules/ptr2e-pkmn-sprites/artmap.json",
         "ptr2e-species-art-priority": 0
     }
-  }
+  },
+  "background": "modules/ptr2e-pkmn-sprites/splash.webp",
+  "url": "https://github.com/pokemon-tabletop-reunited/PTR2e-Pokemon-Sprite-Collection",  
+  "manifest": "https://github.com/pokemon-tabletop-reunited/PTR2e-Pokemon-Sprite-Collection/releases/latest/download/module.json",
+  "download": "https://github.com/pokemon-tabletop-reunited/PTR2e-Pokemon-Sprite-Collection/releases/latest/download/module.zip"
 }
