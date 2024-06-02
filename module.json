@@ -1,0 +1,33 @@
+{
+  "id": "ptr2e-pkmn-sprites",
+  "title": "PTR2e - Pokémon Sprite Collection",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.325"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "ptr2e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "Default Pokémon Sprites for use with the PTR2e System",
+  "authors": [
+    {
+      "name": "AsheEon",
+      "url": "https://github.com/pokemon-tabletop-reunited/",
+      "discord": "asheeon",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "ptr2e-pkmn-sprites": {
+        "ptr2e-species-art": "/modules/ptr2e-pkmn-sprites/artmap.json",
+        "ptr2e-species-art-priority": 0
+    }
+  }
+}
