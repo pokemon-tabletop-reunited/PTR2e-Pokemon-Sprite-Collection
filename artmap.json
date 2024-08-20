@@ -61,87 +61,87 @@
     },
     "alolan-dugtrio": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/051"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/051_alolan"
         }
     },
     "alolan-exeggutor": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/103"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/103_alolan"
         }
     },
     "alolan-geodude": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/074"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/074_alolan"
         }
     },
     "alolan-golem": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/076"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/076_alolan"
         }
     },
     "alolan-graveler": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/075"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/075_alolan"
         }
     },
     "alolan-grimer": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/088"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/088_alolan"
         }
     },
     "alolan-marowak": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/105"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/105_alolan"
         }
     },
     "alolan-meowth": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/052"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/052_alolan"
         }
     },
     "alolan-muk": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/089"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/089_alolan"
         }
     },
     "alolan-ninetales": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/038"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/038_alolan"
         }
     },
     "alolan-persian": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/053"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/053_alolan"
         }
     },
     "alolan-raichu": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/026"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/026_alolan"
         }
     },
     "alolan-raticate": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/020"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/020_alolan"
         }
     },
     "alolan-rattata": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/019"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/019_alolan"
         }
     },
     "alolan-sandshrew": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/027"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/027_alolan"
         }
     },
     "alolan-sandslash": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/028"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/028_alolan"
         }
     },
     "alolan-vulpix": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/037"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/037_alolan"
         }
     },
     "alomomola": {
@@ -722,6 +722,12 @@
     "charizard": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/006"
+        }
+        ,
+        "suffixes": {
+            "mega-x": "_MEGA_X",
+            "mega-y": "_MEGA_Y",
+            "gmax": "_gmax"
         }
     },
     "charjabug": {
@@ -1711,102 +1717,102 @@
     },
     "galarian-articuno": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/144"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/144_galarian"
         }
     },
     "galarian-corsola": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/222"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/222_galarian"
         }
     },
     "galarian-darmanitan": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/555"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/555_galarian"
         }
     },
     "galarian-darmanitan-zen": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/555"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/555_galarian_zen"
         }
     },
     "galarian-darumaka": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/554"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/554_galarian"
         }
     },
     "galarian-farfetchd": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/083"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/083_galarian"
         }
     },
     "galarian-linoone": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/264"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/264_galarian"
         }
     },
     "galarian-meowth": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/052"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/052_galarian"
         }
     },
     "galarian-moltres": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/146"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/146_galarian"
         }
     },
     "galarian-mr-mime": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/122"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/122_galarian"
         }
     },
     "galarian-ponyta": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/077"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/077_galarian"
         }
     },
     "galarian-rapidash": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/078"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/078_galarian"
         }
     },
     "galarian-slowbro": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/080"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/080_galarian"
         }
     },
     "galarian-slowking": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/199"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/199_galarian"
         }
     },
     "galarian-slowpoke": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/079"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/079_galarian"
         }
     },
     "galarian-stunfisk": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/618"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/618_galarian"
         }
     },
     "galarian-weezing": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/110"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/110_galarian"
         }
     },
     "galarian-yamask": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/562"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/562_galarian"
         }
     },
     "galarian-zapdos": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/145"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/145_galarian"
         }
     },
     "galarian-zigzagoon": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/263"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/263_galarian"
         }
     },
     "gallade": {
@@ -4127,7 +4133,8 @@
             "wash": "_Wash",
             "heat": "_Heat",
             "fan": "_Fan",
-            "mow": "_Mow"
+            "mow": "_Mow",
+            "frost": "_Frost"
         }
     },
     "rotom-fan": {
@@ -5273,6 +5280,10 @@
     "venusaur": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/003"
+        },
+        "suffixes": {
+            "mega": "_MEGA",
+            "gmax": "_gmax"
         }
     },
     "vespiquen": {
