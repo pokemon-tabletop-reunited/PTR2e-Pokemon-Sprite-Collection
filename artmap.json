@@ -47,6 +47,9 @@
     "alakazam": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/065"
+        },
+        "suffixes": {
+            "mega": "_MEGA"
         }
     },
     "alcremie": {
@@ -202,6 +205,9 @@
     "arbok": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/024"
+        },
+        "suffixes": {
+            "mega": "_MEGA"
         }
     },
     "arboliva": {
@@ -392,6 +398,9 @@
     "beedrill": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/015"
+        },
+        "suffixes": {
+            "mega": "_MEGA"
         }
     },
     "beheeyem": {
@@ -457,6 +466,10 @@
     "blastoise": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/009"
+        },
+        "suffixes": {
+            "mega": "_MEGA",
+            "gmax": "_gmax"
         }
     },
     "blaziken": {
@@ -592,6 +605,9 @@
     "butterfree": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/012"
+        },
+        "suffixes": {
+            "gmax": "_gmax"
         }
     },
     "buzzwole": {
@@ -722,8 +738,7 @@
     "charizard": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/006"
-        }
-        ,
+        },
         "suffixes": {
             "mega-x": "_MEGA_X",
             "mega-y": "_MEGA_Y",
@@ -2943,6 +2958,9 @@
     "machamp": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/068"
+        },
+        "suffixes": {
+            "mega": "_gmax"
         }
     },
     "machoke": {
@@ -3153,6 +3171,9 @@
     "meowth": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/052"
+        },
+        "suffixes": {
+            "gmax": "_gmax"
         }
     },
     "mesprit": {
@@ -3388,6 +3409,9 @@
     "nidoking": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/034"
+        },
+        "suffixes": {
+            "mega": "_MEGA"
         }
     },
     "nidoqueen": {
@@ -3723,6 +3747,9 @@
     "pidgeot": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/018"
+        },
+        "suffixes": {
+            "mega": "_MEGA"
         }
     },
     "pidgeotto": {
@@ -3748,6 +3775,9 @@
     "pikachu": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/025"
+        },
+        "suffixes": {
+            "gmax": "_gmax"
         }
     },
     "pikipek": {
@@ -3808,6 +3838,9 @@
     "poliwrath": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/062"
+        },
+        "suffixes": {
+            "mega": "_MEGA"
         }
     },
     "poltchageist": {
