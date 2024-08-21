@@ -32,6 +32,9 @@
     "aerodactyl": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/142"
+        },
+        "suffixes": {
+            "mega": "_MEGA"
         }
     },
     "aggron": {
@@ -175,6 +178,9 @@
     "ampharos": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/181"
+        },
+        "suffixes": {
+            "mega": "_MEGA"
         }
     },
     "annihilape": {
@@ -1208,6 +1214,9 @@
     "donphan": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/232"
+        },
+        "suffixes": {
+            "mega": "_MEGA"
         }
     },
     "dottler": {
@@ -1388,6 +1397,10 @@
     "eevee": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/133"
+        },
+        "suffixes": {
+            "mega": "_MEGA",
+            "gmax": "_gmax"
         }
     },
     "eiscue-ice": {
@@ -1553,6 +1566,9 @@
     "feraligatr": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/160"
+        },
+        "suffixes": {
+            "mega": "_MEGA"
         }
     },
     "ferroseed": {
@@ -1878,6 +1894,10 @@
     "gengar": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/094"
+        },
+        "suffixes": {
+            "mega": "_MEGA",
+            "gmax": "_gmax"
         }
     },
     "geodude": {
@@ -2163,6 +2183,9 @@
     "gyarados": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/130"
+        },
+        "suffixes": {
+            "mega": "_MEGA"
         }
     },
     "hakamo-o": {
@@ -2233,6 +2256,9 @@
     "heracross": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/214"
+        },
+        "suffixes": {
+            "mega": "_MEGA"
         }
     },
     "herdier": {
@@ -2388,6 +2414,9 @@
     "houndoom": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/229"
+        },
+        "suffixes": {
+            "mega": "_MEGA"
         }
     },
     "houndour": {
@@ -2583,6 +2612,9 @@
     "kangaskhan": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/115"
+        },
+        "suffixes": {
+            "mega": "_MEGA"
         }
     },
     "karrablast": {
@@ -2628,6 +2660,9 @@
     "kingler": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/099"
+        },
+        "suffixes": {
+            "gmax": "_gmax"
         }
     },
     "kirlia": {
@@ -2763,6 +2798,9 @@
     "lapras": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/131"
+        },
+        "suffixes": {
+            "gmax": "_gmax"
         }
     },
     "larvesta": {
@@ -2981,6 +3019,9 @@
     "magcargo": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/219"
+        },
+        "suffixes": {
+            "mega": "_MEGA"
         }
     },
     "magearna": {
@@ -3086,6 +3127,9 @@
     "marowak": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/105"
+        },
+        "suffixes": {
+            "mega": "_MEGA"
         }
     },
     "marshadow": {
@@ -3131,6 +3175,9 @@
     "meganium": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/154"
+        },
+        "suffixes": {
+            "mega": "_MEGA"
         }
     },
     "melmetal": {
@@ -3204,6 +3251,10 @@
     "mewtwo": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/150"
+        },
+        "suffixes": {
+            "mega-x": "_MEGA_X",
+            "mega-y": "_MEGA_Y"
         }
     },
     "mienfoo": {
@@ -3234,6 +3285,9 @@
     "miltank": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/241"
+        },
+        "suffixes": {
+            "mega": "_MEGA"
         }
     },
     "mime-jr": {
@@ -3591,17 +3645,17 @@
     },
     "paldean-tauros": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/128"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/128_paldean"
         }
     },
     "paldean-tauros-aqua": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/128"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/128_aqua"
         }
     },
     "paldean-tauros-blaze": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/128"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/128_blaze"
         }
     },
     "paldean-wooper": {
@@ -3803,6 +3857,9 @@
     "pinsir": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/127"
+        },
+        "suffixes": {
+            "mega": "_MEGA"
         }
     },
     "piplup": {
@@ -3823,6 +3880,9 @@
     "politoed": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/186"
+        },
+        "suffixes": {
+            "mega": "_MEGA"
         }
     },
     "poliwag": {
@@ -4283,6 +4343,9 @@
     "scizor": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/212"
+        },
+        "suffixes": {
+            "mega": "_MEGA"
         }
     },
     "scolipede": {
@@ -4573,6 +4636,9 @@
     "slowbro": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/080"
+        },
+        "suffixes": {
+            "mega": "_MEGA"
         }
     },
     "slowking": {
@@ -4633,6 +4699,9 @@
     "snorlax": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/143"
+        },
+        "suffixes": {
+            "gmax": "_gmax"
         }
     },
     "snorunt": {
@@ -4763,6 +4832,9 @@
     "starmie": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/121"
+        },
+        "suffixes": {
+            "mega": "_MEGA"
         }
     },
     "staryu": {
@@ -4808,16 +4880,25 @@
     "sudowoodo": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/185"
+        },
+        "suffixes": {
+            "mega": "_MEGA"
         }
     },
     "suicune": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/245"
+        },
+        "suffixes": {
+            "mega": "_MEGA"
         }
     },
     "sunflora": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/192"
+        },
+        "suffixes": {
+            "mega": "_MEGA"
         }
     },
     "sunkern": {
@@ -5198,11 +5279,17 @@
     "typhlosion": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/157"
+        },
+        "suffixes": {
+            "mega": "_MEGA"
         }
     },
     "tyranitar": {
         "data": {
             "base": "/modules/ptr2e-pkmn-sprites/sprites/248"
+        },
+        "suffixes": {
+            "mega": "_MEGA"
         }
     },
     "tyrantrum": {
@@ -5232,7 +5319,8 @@
     },
     "unown": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/201"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/201_*",
+            "random": true
         }
     },
     "ursaluna": {
@@ -5361,7 +5449,8 @@
     },
     "vivillon": {
         "data": {
-            "base": "/modules/ptr2e-pkmn-sprites/sprites/666"
+            "base": "/modules/ptr2e-pkmn-sprites/sprites/666_*",
+            "random": true
         }
     },
     "volbeat": {
