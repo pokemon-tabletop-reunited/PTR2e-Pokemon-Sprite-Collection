@@ -34,7 +34,7 @@
             "base": "/modules/ptr2e-pkmn-sprites/sprites/142"
         },
         "suffixes": {
-            "mega": "_MEGA"
+            "mega": "_mega"
         }
     },
     "aggron": {
@@ -52,7 +52,7 @@
             "base": "/modules/ptr2e-pkmn-sprites/sprites/065"
         },
         "suffixes": {
-            "mega": "_MEGA"
+            "mega": "_mega"
         }
     },
     "alcremie": {
@@ -180,7 +180,7 @@
             "base": "/modules/ptr2e-pkmn-sprites/sprites/181"
         },
         "suffixes": {
-            "mega": "_MEGA"
+            "mega": "_mega"
         }
     },
     "annihilape": {
@@ -213,7 +213,7 @@
             "base": "/modules/ptr2e-pkmn-sprites/sprites/024"
         },
         "suffixes": {
-            "mega": "_MEGA"
+            "mega": "_mega"
         }
     },
     "arboliva": {
@@ -406,7 +406,7 @@
             "base": "/modules/ptr2e-pkmn-sprites/sprites/015"
         },
         "suffixes": {
-            "mega": "_MEGA"
+            "mega": "_mega"
         }
     },
     "beheeyem": {
@@ -474,7 +474,7 @@
             "base": "/modules/ptr2e-pkmn-sprites/sprites/009"
         },
         "suffixes": {
-            "mega": "_MEGA",
+            "mega": "_mega",
             "gmax": "_gmax"
         }
     },
@@ -1216,7 +1216,7 @@
             "base": "/modules/ptr2e-pkmn-sprites/sprites/232"
         },
         "suffixes": {
-            "mega": "_MEGA"
+            "mega": "_mega"
         }
     },
     "dottler": {
@@ -1399,7 +1399,7 @@
             "base": "/modules/ptr2e-pkmn-sprites/sprites/133"
         },
         "suffixes": {
-            "mega": "_MEGA",
+            "mega": "_mega",
             "gmax": "_gmax"
         }
     },
@@ -1568,7 +1568,7 @@
             "base": "/modules/ptr2e-pkmn-sprites/sprites/160"
         },
         "suffixes": {
-            "mega": "_MEGA"
+            "mega": "_mega"
         }
     },
     "ferroseed": {
@@ -1896,7 +1896,7 @@
             "base": "/modules/ptr2e-pkmn-sprites/sprites/094"
         },
         "suffixes": {
-            "mega": "_MEGA",
+            "mega": "_mega",
             "gmax": "_gmax"
         }
     },
@@ -2185,7 +2185,7 @@
             "base": "/modules/ptr2e-pkmn-sprites/sprites/130"
         },
         "suffixes": {
-            "mega": "_MEGA"
+            "mega": "_mega"
         }
     },
     "hakamo-o": {
@@ -2258,7 +2258,7 @@
             "base": "/modules/ptr2e-pkmn-sprites/sprites/214"
         },
         "suffixes": {
-            "mega": "_MEGA"
+            "mega": "_mega"
         }
     },
     "herdier": {
@@ -2416,7 +2416,7 @@
             "base": "/modules/ptr2e-pkmn-sprites/sprites/229"
         },
         "suffixes": {
-            "mega": "_MEGA"
+            "mega": "_mega"
         }
     },
     "houndour": {
@@ -2614,7 +2614,7 @@
             "base": "/modules/ptr2e-pkmn-sprites/sprites/115"
         },
         "suffixes": {
-            "mega": "_MEGA"
+            "mega": "_mega"
         }
     },
     "karrablast": {
@@ -3021,7 +3021,7 @@
             "base": "/modules/ptr2e-pkmn-sprites/sprites/219"
         },
         "suffixes": {
-            "mega": "_MEGA"
+            "mega": "_mega"
         }
     },
     "magearna": {
@@ -3129,7 +3129,7 @@
             "base": "/modules/ptr2e-pkmn-sprites/sprites/105"
         },
         "suffixes": {
-            "mega": "_MEGA"
+            "mega": "_mega"
         }
     },
     "marshadow": {
@@ -3177,7 +3177,7 @@
             "base": "/modules/ptr2e-pkmn-sprites/sprites/154"
         },
         "suffixes": {
-            "mega": "_MEGA"
+            "mega": "_mega"
         }
     },
     "melmetal": {
@@ -3287,7 +3287,7 @@
             "base": "/modules/ptr2e-pkmn-sprites/sprites/241"
         },
         "suffixes": {
-            "mega": "_MEGA"
+            "mega": "_mega"
         }
     },
     "mime-jr": {
@@ -3465,7 +3465,7 @@
             "base": "/modules/ptr2e-pkmn-sprites/sprites/034"
         },
         "suffixes": {
-            "mega": "_MEGA"
+            "mega": "_mega"
         }
     },
     "nidoqueen": {
@@ -3803,7 +3803,7 @@
             "base": "/modules/ptr2e-pkmn-sprites/sprites/018"
         },
         "suffixes": {
-            "mega": "_MEGA"
+            "mega": "_mega"
         }
     },
     "pidgeotto": {
@@ -3859,7 +3859,7 @@
             "base": "/modules/ptr2e-pkmn-sprites/sprites/127"
         },
         "suffixes": {
-            "mega": "_MEGA"
+            "mega": "_mega"
         }
     },
     "piplup": {
@@ -3882,7 +3882,7 @@
             "base": "/modules/ptr2e-pkmn-sprites/sprites/186"
         },
         "suffixes": {
-            "mega": "_MEGA"
+            "mega": "_mega"
         }
     },
     "poliwag": {
@@ -3900,7 +3900,7 @@
             "base": "/modules/ptr2e-pkmn-sprites/sprites/062"
         },
         "suffixes": {
-            "mega": "_MEGA"
+            "mega": "_mega"
         }
     },
     "poltchageist": {
@@ -4345,7 +4345,7 @@
             "base": "/modules/ptr2e-pkmn-sprites/sprites/212"
         },
         "suffixes": {
-            "mega": "_MEGA"
+            "mega": "_mega"
         }
     },
     "scolipede": {
@@ -4638,7 +4638,7 @@
             "base": "/modules/ptr2e-pkmn-sprites/sprites/080"
         },
         "suffixes": {
-            "mega": "_MEGA"
+            "mega": "_mega"
         }
     },
     "slowking": {
@@ -4834,7 +4834,7 @@
             "base": "/modules/ptr2e-pkmn-sprites/sprites/121"
         },
         "suffixes": {
-            "mega": "_MEGA"
+            "mega": "_mega"
         }
     },
     "staryu": {
@@ -4882,7 +4882,7 @@
             "base": "/modules/ptr2e-pkmn-sprites/sprites/185"
         },
         "suffixes": {
-            "mega": "_MEGA"
+            "mega": "_mega"
         }
     },
     "suicune": {
@@ -4890,7 +4890,7 @@
             "base": "/modules/ptr2e-pkmn-sprites/sprites/245"
         },
         "suffixes": {
-            "mega": "_MEGA"
+            "mega": "_mega"
         }
     },
     "sunflora": {
@@ -4898,7 +4898,7 @@
             "base": "/modules/ptr2e-pkmn-sprites/sprites/192"
         },
         "suffixes": {
-            "mega": "_MEGA"
+            "mega": "_mega"
         }
     },
     "sunkern": {
@@ -5281,7 +5281,7 @@
             "base": "/modules/ptr2e-pkmn-sprites/sprites/157"
         },
         "suffixes": {
-            "mega": "_MEGA"
+            "mega": "_mega"
         }
     },
     "tyranitar": {
@@ -5289,7 +5289,7 @@
             "base": "/modules/ptr2e-pkmn-sprites/sprites/248"
         },
         "suffixes": {
-            "mega": "_MEGA"
+            "mega": "_mega"
         }
     },
     "tyrantrum": {
@@ -5403,7 +5403,7 @@
             "base": "/modules/ptr2e-pkmn-sprites/sprites/003"
         },
         "suffixes": {
-            "mega": "_MEGA",
+            "mega": "_mega",
             "gmax": "_gmax"
         }
     },
