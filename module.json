@@ -26,7 +26,7 @@
   ],
   "flags": {
     "ptr2e-pkmn-sprites": {
-        "ptr2e-species-art": "/modules/ptr2e-pkmn-sprites/artmap.json",
+        "ptr2e-species-art": "modules/ptr2e-pkmn-sprites/artmap.json",
         "ptr2e-species-art-priority": 0
     }
   },
