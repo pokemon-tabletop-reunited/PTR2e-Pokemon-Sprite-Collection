@@ -3447,26 +3447,6 @@
       "base": "modules/ptr2e-pkmn-sprites/sprites/964"
     }
   },
-  "paldean-tauros": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/128_paldean"
-    }
-  },
-  "paldean-tauros-aqua": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/128_aqua"
-    }
-  },
-  "paldean-tauros-blaze": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/128_blaze"
-    }
-  },
-  "paldean-wooper": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/194"
-    }
-  },
   "palkia": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/484"
@@ -4874,6 +4854,11 @@
   "tauros": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/128"
+    },
+    "suffixes": {
+      "paldean": "_paldean",
+      "aqua": "_aqua",
+      "blaze": "_blaze"
     }
   },
   "teddiursa": {
@@ -5466,6 +5451,9 @@
   "wooper": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/194"
+    },
+    "suffixes": {
+      "paldean": "_paldean"
     }
   },
   "wormadam-plant": {
