@@ -19,14 +19,12 @@
       "base": "modules/ptr2e-pkmn-sprites/sprites/617"
     }
   },
-  "aegislash-blade": {
+  "aegislash": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/681"
-    }
-  },
-  "aegislash-shield": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/681"
+    },
+    "suffixes": {
+      "blade": "_blade"
     }
   },
   "aerodactyl": {
@@ -528,6 +526,11 @@
   "burmy": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/412"
+    },
+    "suffixes": {
+      "plant": "_plant",
+      "sandy": "_sandy",
+      "trash": "_trash"
     }
   },
   "butterfree": {
@@ -556,16 +559,26 @@
   "calyrex": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/898"
+    },
+    "suffixes": {
+      "ice": "_ice",
+      "shadow": "_shadow"
     }
   },
   "calyrex-ice-rider": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/898"
+    },
+    "suffixes": {
+      "ice": "_ice"
     }
   },
   "calyrex-shadow-rider": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/898"
+    },
+    "suffixes": {
+      "shadow": "_shadow"
     }
   },
   "camerupt": {
@@ -1061,9 +1074,14 @@
       "base": "modules/ptr2e-pkmn-sprites/sprites/655"
     }
   },
-  "deoxys-normal": {
+  "deoxys": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/386"
+    },
+    "suffixes": {
+      "attack": "_ATK",
+      "defense": "_DEF",
+      "speed": "_SPD"
     }
   },
   "dewgong": {
@@ -1089,11 +1107,9 @@
   "dialga": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/483"
-    }
-  },
-  "dialga-origin": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/483"
+    },
+    "suffixes": {
+      "origin": "_ORIGIN"
     }
   },
   "diancie": {
@@ -1339,14 +1355,12 @@
       "gmax": "_gmax"
     }
   },
-  "eiscue-ice": {
+  "eiscue": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/875"
-    }
-  },
-  "eiscue-noice": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/875"
+    },
+    "suffixes": {
+      "noice": "_noice"
     }
   },
   "ekans": {
@@ -1407,14 +1421,12 @@
       "base": "modules/ptr2e-pkmn-sprites/sprites/395"
     }
   },
-  "enamorus-incarnate": {
+  "enamorus": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/905"
-    }
-  },
-  "enamorus-therian": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/905"
+    },
+    "suffixes": {
+      "therian": "_therian"
     }
   },
   "entei": {
@@ -1445,11 +1457,9 @@
   "eternatus": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/890"
-    }
-  },
-  "eternatus-eternamax": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/890"
+    },
+    "suffixes": {
+      "eternamax": "_emax"
     }
   },
   "excadrill": {
@@ -1771,11 +1781,9 @@
   "gimmighoul": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/999"
-    }
-  },
-  "gimmighoul-roaming": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/999"
+    },
+    "suffixes": {
+      "roaming": "_roaming"
     }
   },
   "girafarig": {
@@ -1783,14 +1791,12 @@
       "base": "modules/ptr2e-pkmn-sprites/sprites/203"
     }
   },
-  "giratina-altered": {
+  "giratina": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/487"
-    }
-  },
-  "giratina-origin": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/487"
+    },
+    "suffixes": {
+      "origin": "_ORIGIN"
     }
   },
   "glaceon": {
@@ -1924,7 +1930,7 @@
       "base": "modules/ptr2e-pkmn-sprites/sprites/1020"
     }
   },
-  "gourgeist-average": {
+  "gourgeist": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/711"
     }
@@ -2172,11 +2178,9 @@
   "hoopa": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/720"
-    }
-  },
-  "hoopa-unbound": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/720"
+    },
+    "suffixes": {
+      "unbound": "_unbound"
     }
   },
   "hoothoot": {
@@ -2415,14 +2419,12 @@
       "base": "modules/ptr2e-pkmn-sprites/sprites/352"
     }
   },
-  "keldeo-ordinary": {
+  "keldeo": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/647"
-    }
-  },
-  "keldeo-resolute": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/647"
+    },
+    "suffixes": {
+      "resolute": "_resolute"
     }
   },
   "kilowattrel": {
@@ -2541,16 +2543,10 @@
   "kyurem": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/646"
-    }
-  },
-  "kyurem-black": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/646"
-    }
-  },
-  "kyurem-white": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/646"
+    },
+    "suffixes": {
+      "black": "_black",
+      "white": "_white"
     }
   },
   "lairon": {
@@ -2563,14 +2559,12 @@
       "base": "modules/ptr2e-pkmn-sprites/sprites/608"
     }
   },
-  "landorus-incarnate": {
+  "landorus": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/645"
-    }
-  },
-  "landorus-therian": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/645"
+    },
+    "suffixes": {
+      "therian": "_therian"
     }
   },
   "lanturn": {
@@ -2762,19 +2756,14 @@
       "base": "modules/ptr2e-pkmn-sprites/sprites/405"
     }
   },
-  "lycanroc-dusk": {
+  "lycanroc": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/745"
-    }
-  },
-  "lycanroc-midday": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/745"
-    }
-  },
-  "lycanroc-midnight": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/745"
+    },
+    "suffixes": {
+      "dusk": "_dusk",
+      "midday": "_midday",
+      "midnight": "_midnight"
     }
   },
   "mabosstiff": {
@@ -2975,14 +2964,12 @@
       "base": "modules/ptr2e-pkmn-sprites/sprites/809"
     }
   },
-  "meloetta-aria": {
+  "meloetta": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/648"
-    }
-  },
-  "meloetta-pirouette": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/648"
+    },
+    "suffixes": {
+      "pirouette": "_pirouette"
     }
   },
   "meltan": {
@@ -3097,9 +3084,20 @@
       "base": "modules/ptr2e-pkmn-sprites/sprites/572"
     }
   },
-  "minior-meteor": {
+  "minior": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/774"
+    },
+    "suffixes": {
+      "core": "_red",
+      "blue": "_blue",
+      "green": "_green",
+      "indigo": "_indigo",
+      "meteor": "_meteor",
+      "orange": "_orange",
+      "red": "_red",
+      "violet": "_violet",
+      "yellow": "_yellow"
     }
   },
   "minun": {
@@ -3239,21 +3237,11 @@
   "necrozma": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/800"
-    }
-  },
-  "necrozma-dawn-wings": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/800"
-    }
-  },
-  "necrozma-dusk-mane": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/800"
-    }
-  },
-  "necrozma-ultra": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/800"
+    },
+    "suffixes": {
+      "duskmane": "_dusk",
+      "dawnwings": "_dawn",
+      "ultra": "_ultra"
     }
   },
   "nickit": {
@@ -3407,14 +3395,15 @@
       "base": "modules/ptr2e-pkmn-sprites/sprites/826"
     }
   },
-  "oricorio-baile": {
+  "oricorio": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/741"
-    }
-  },
-  "oricorio-pom-pom": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/741"
+    },
+    "suffixes": {
+      "baile": "_baile",
+      "pompom": "_pompom",
+      "pau": "_pau",
+      "sensu": "_sensu"
     }
   },
   "orthworm": {
@@ -3440,21 +3429,17 @@
   "palafin": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/964"
-    }
-  },
-  "palafin-hero": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/964"
+    },
+    "suffixes": {
+      "hero": "_hero"
     }
   },
   "palkia": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/484"
-    }
-  },
-  "palkia-origin": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/484"
+    },
+    "suffixes": {
+      "origin": "_ORIGIN"
     }
   },
   "palossand": {
@@ -3758,7 +3743,7 @@
       "base": "modules/ptr2e-pkmn-sprites/sprites/054"
     }
   },
-  "pumpkaboo-average": {
+  "pumpkaboo": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/710"
     }
@@ -4035,26 +4020,6 @@
       "frost": "_Frost"
     }
   },
-  "rotom-fan": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/479"
-    }
-  },
-  "rotom-frost": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/479"
-    }
-  },
-  "rotom-mow": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/479"
-    }
-  },
-  "rotom-wash": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/479"
-    }
-  },
   "rowlet": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/722"
@@ -4257,9 +4222,12 @@
       "base": "modules/ptr2e-pkmn-sprites/sprites/319"
     }
   },
-  "shaymin-land": {
+  "shaymin": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/492"
+    },
+    "suffixes": {
+      "sky": "_sky"
     }
   },
   "shedinja": {
@@ -4881,19 +4849,13 @@
       "base": "modules/ptr2e-pkmn-sprites/sprites/498"
     }
   },
-  "terapagos-normal": {
+  "terapagos": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/1024"
-    }
-  },
-  "terapagos-stellar": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/1024"
-    }
-  },
-  "terapagos-terastal": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/1024"
+    },
+    "suffixes": {
+      "stellar": "_stellar",
+      "terastal": "_terastal"
     }
   },
   "terrakion": {
@@ -4911,14 +4873,12 @@
       "base": "modules/ptr2e-pkmn-sprites/sprites/538"
     }
   },
-  "thundurus-incarnate": {
+  "thundurus": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/642"
-    }
-  },
-  "thundurus-therian": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/642"
+    },
+    "suffixes": {
+      "therian": "_therian"
     }
   },
   "thwackey": {
@@ -4996,14 +4956,12 @@
       "base": "modules/ptr2e-pkmn-sprites/sprites/324"
     }
   },
-  "tornadus-incarnate": {
+  "tornadus": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/641"
-    }
-  },
-  "tornadus-therian": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/641"
+    },
+    "suffixes": {
+      "therian": "_therian"
     }
   },
   "torracat": {
@@ -5162,11 +5120,9 @@
   "ursaluna": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/901"
-    }
-  },
-  "ursaluna-bloodmoon": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/901"
+    },
+    "suffixes": {
+      "bloodmoon": "_bloodmoon"
     }
   },
   "ursaring": {
@@ -5174,14 +5130,14 @@
       "base": "modules/ptr2e-pkmn-sprites/sprites/217"
     }
   },
-  "urshifu-rapid-strike": {
+  "urshifu": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/892"
-    }
-  },
-  "urshifu-single-strike": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/892"
+    },
+    "suffixes": {
+      "rapidstrike": "_rapid",
+      "singlestrike": "_single",
+      "gmax": "_gmax"
     }
   },
   "uxie": {
@@ -5423,9 +5379,12 @@
       "base": "modules/ptr2e-pkmn-sprites/sprites/278"
     }
   },
-  "wishiwashi-solo": {
+  "wishiwashi": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/746"
+    },
+    "suffixes": {
+      "school": "_school"
     }
   },
   "wo-chien": {
@@ -5456,19 +5415,14 @@
       "paldean": "_paldean"
     }
   },
-  "wormadam-plant": {
+  "wormadam": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/413"
-    }
-  },
-  "wormadam-sandy": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/413"
-    }
-  },
-  "wormadam-trash": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/413"
+    },
+    "suffixes": {
+      "plant": "_plant",
+      "sandy": "_sandy",
+      "trash": "_trash"
     }
   },
   "wugtrio": {
@@ -5539,24 +5493,22 @@
       "base": "modules/ptr2e-pkmn-sprites/sprites/717"
     }
   },
-  "zacian-crowned": {
+  "zacian": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/888"
+    },
+    "suffixes": {
+      "crowned": "_crowned",
+      "hero": "_hero"
     }
   },
-  "zacian-hero": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/888"
-    }
-  },
-  "zamazenta-crowned": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/889"
-    }
-  },
-  "zamazenta-hero": {
+  "zamazenta": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/889"
+    },
+    "suffixes": {
+      "crowned": "_crowned",
+      "hero": "_hero"
     }
   },
   "zangoose": {
@@ -5626,19 +5578,14 @@
       "base": "modules/ptr2e-pkmn-sprites/sprites/634"
     }
   },
-  "zygarde-10": {
+  "zygarde": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/718"
-    }
-  },
-  "zygarde-50": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/718"
-    }
-  },
-  "zygarde-complete": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/718"
+    },
+    "suffixes": {
+      "10": "_10",
+      "50": "_50",
+      "complete": "_complete"
     }
   }
 }

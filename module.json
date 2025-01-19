@@ -1,7 +1,7 @@
 {
   "id": "ptr2e-pkmn-sprites",
   "title": "PTR2e - Pokémon Sprite Collection",
-  "version": "1.1.2",
+  "version": "1.2",
   "compatibility": {
     "minimum": "12",
     "verified": "12.325"
