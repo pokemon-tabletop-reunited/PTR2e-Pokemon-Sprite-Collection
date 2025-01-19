@@ -204,6 +204,9 @@
   "articuno": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/144"
+    },
+    "suffixes": {
+      "galarian": "_galarian"
     }
   },
   "audino": {
@@ -849,6 +852,9 @@
   "corsola": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/222"
+    },
+    "suffixes": {
+      "galarian": "_galarian"
     }
   },
   "corviknight": {
@@ -986,14 +992,13 @@
       "base": "modules/ptr2e-pkmn-sprites/sprites/491"
     }
   },
-  "darmanitan-standard": {
+  "darmanitan": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/555"
-    }
-  },
-  "darmanitan-zen": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/555"
+    },
+    "suffixes": {
+      "galarian": "_galarian",
+      "zen": "_zen"
     }
   },
   "dartrix": {
@@ -1004,6 +1009,9 @@
   "darumaka": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/554"
+    },
+    "suffixes": {
+      "galarian": "_galarian"
     }
   },
   "decidueye": {
@@ -1460,6 +1468,9 @@
   "farfetchd": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/083"
+    },
+    "suffixes": {
+      "galarian": "_galarian"
     }
   },
   "farigiraf": {
@@ -1663,106 +1674,6 @@
   "gabite": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/444"
-    }
-  },
-  "galarian-articuno": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/144_galarian"
-    }
-  },
-  "galarian-corsola": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/222_galarian"
-    }
-  },
-  "galarian-darmanitan": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/555_galarian"
-    }
-  },
-  "galarian-darmanitan-zen": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/555_galarian_zen"
-    }
-  },
-  "galarian-darumaka": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/554_galarian"
-    }
-  },
-  "galarian-farfetchd": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/083_galarian"
-    }
-  },
-  "galarian-linoone": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/264_galarian"
-    }
-  },
-  "galarian-meowth": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/052_galarian"
-    }
-  },
-  "galarian-moltres": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/146_galarian"
-    }
-  },
-  "galarian-mr-mime": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/122_galarian"
-    }
-  },
-  "galarian-ponyta": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/077_galarian"
-    }
-  },
-  "galarian-rapidash": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/078_galarian"
-    }
-  },
-  "galarian-slowbro": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/080_galarian"
-    }
-  },
-  "galarian-slowking": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/199_galarian"
-    }
-  },
-  "galarian-slowpoke": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/079_galarian"
-    }
-  },
-  "galarian-stunfisk": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/618_galarian"
-    }
-  },
-  "galarian-weezing": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/110_galarian"
-    }
-  },
-  "galarian-yamask": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/562_galarian"
-    }
-  },
-  "galarian-zapdos": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/145_galarian"
-    }
-  },
-  "galarian-zigzagoon": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/263_galarian"
     }
   },
   "gallade": {
@@ -2812,6 +2723,9 @@
   "linoone": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/264"
+    },
+    "suffixes": {
+      "galarian": "_galarian"
     }
   },
   "litleo": {
@@ -3267,6 +3181,9 @@
   "moltres": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/146"
+    },
+    "suffixes": {
+      "galarian": "_galarian"
     }
   },
   "monferno": {
@@ -3297,6 +3214,9 @@
   "mr-mime": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/122"
+    },
+    "suffixes": {
+      "galarian": "_galarian"
     }
   },
   "mr-rime": {
@@ -3859,6 +3779,9 @@
   "ponyta": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/077"
+    },
+    "suffixes": {
+      "galarian": "_galarian"
     }
   },
   "poochyena": {
@@ -4022,6 +3945,9 @@
   "rapidash": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/078"
+    },
+    "suffixes": {
+      "galarian": "_galarian"
     }
   },
   "raticate": {
@@ -4596,17 +4522,24 @@
       "base": "modules/ptr2e-pkmn-sprites/sprites/080"
     },
     "suffixes": {
-      "mega": "_mega"
+      "mega": "_mega",
+      "galarian": "_galarian"
     }
   },
   "slowking": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/199"
+    },
+    "suffixes": {
+      "galarian": "_galarian"
     }
   },
   "slowpoke": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/079"
+    },
+    "suffixes": {
+      "galarian": "_galarian"
     }
   },
   "slugma": {
@@ -4828,6 +4761,9 @@
   "stunfisk": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/618"
+    },
+    "suffixes": {
+      "galarian": "_galarian"
     }
   },
   "stunky": {
@@ -5497,6 +5433,9 @@
   "weezing": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/110"
+    },
+    "suffixes": {
+      "galarian": "_galarian"
     }
   },
   "whimsicott": {
@@ -5622,6 +5561,9 @@
   "yamask": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/562"
+    },
+    "suffixes": {
+      "galarian": "_galarian"
     }
   },
   "yamper": {
@@ -5677,6 +5619,9 @@
   "zapdos": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/145"
+    },
+    "suffixes": {
+      "galarian": "_galarian"
     }
   },
   "zarude": {
@@ -5702,6 +5647,9 @@
   "zigzagoon": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/263"
+    },
+    "suffixes": {
+      "galarian": "_galarian"
     }
   },
   "zoroark": {
