@@ -134,6 +134,9 @@
   "arcanine": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/059"
+    },
+    "suffixes": {
+      "hisuian": "_hisuian"
     }
   },
   "arceus": {
@@ -222,6 +225,9 @@
   "avalugg": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/713"
+    },
+    "suffixes": {
+      "hisuian": "_hisuian"
     }
   },
   "axew": {
@@ -459,6 +465,9 @@
   "braviary": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/628"
+    },
+    "suffixes": {
+      "hisuian": "_hisuian"
     }
   },
   "breloom": {
@@ -1017,6 +1026,9 @@
   "decidueye": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/724"
+    },
+    "suffixes": {
+      "hisuian": "_hisuian"
     }
   },
   "dedenne": {
@@ -1365,6 +1377,9 @@
   "electrode": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/101"
+    },
+    "suffixes": {
+      "hisuian": "_hisuian"
     }
   },
   "elekid": {
@@ -1869,6 +1884,9 @@
   "goodra": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/706"
+    },
+    "suffixes": {
+      "hisuian": "_hisuian"
     }
   },
   "goomy": {
@@ -1990,6 +2008,9 @@
   "growlithe": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/058"
+    },
+    "suffixes": {
+      "hisuian": "_hisuian"
     }
   },
   "grubbin": {
@@ -2116,86 +2137,6 @@
   "hippowdon": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/450"
-    }
-  },
-  "hisuian-arcanine": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/059"
-    }
-  },
-  "hisuian-avalugg": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/713"
-    }
-  },
-  "hisuian-braviary": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/628"
-    }
-  },
-  "hisuian-decidueye": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/724"
-    }
-  },
-  "hisuian-electrode": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/101"
-    }
-  },
-  "hisuian-goodra": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/706"
-    }
-  },
-  "hisuian-growlithe": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/058"
-    }
-  },
-  "hisuian-lilligant": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/549"
-    }
-  },
-  "hisuian-qwilfish": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/211"
-    }
-  },
-  "hisuian-samurott": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/503"
-    }
-  },
-  "hisuian-sliggoo": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/705"
-    }
-  },
-  "hisuian-sneasel": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/215"
-    }
-  },
-  "hisuian-typhlosion": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/157"
-    }
-  },
-  "hisuian-voltorb": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/100"
-    }
-  },
-  "hisuian-zoroark": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/571"
-    }
-  },
-  "hisuian-zorua": {
-    "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/570"
     }
   },
   "hitmonchan": {
@@ -2713,6 +2654,9 @@
   "lilligant": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/549"
+    },
+    "suffixes": {
+      "hisuian": "_hisuian"
     }
   },
   "lillipup": {
@@ -3902,6 +3846,9 @@
   "qwilfish": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/211"
+    },
+    "suffixes": {
+      "hisuian": "_hisuian"
     }
   },
   "raboot": {
@@ -4166,6 +4113,9 @@
   "samurott": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/503"
+    },
+    "suffixes": {
+      "hisuian": "_hisuian"
     }
   },
   "sandaconda": {
@@ -4510,6 +4460,9 @@
   "sliggoo": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/705"
+    },
+    "suffixes": {
+      "hisuian": "_hisuian"
     }
   },
   "slither-wing": {
@@ -4570,6 +4523,9 @@
   "sneasel": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/215"
+    },
+    "suffixes": {
+      "hisuian": "_hisuian"
     }
   },
   "sneasler": {
@@ -5175,7 +5131,8 @@
       "base": "modules/ptr2e-pkmn-sprites/sprites/157"
     },
     "suffixes": {
-      "mega": "_mega"
+      "mega": "_mega",
+      "hisuian": "_hisuian"
     }
   },
   "tyranitar": {
@@ -5365,6 +5322,9 @@
   "voltorb": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/100"
+    },
+    "suffixes": {
+      "hisuian": "_hisuian"
     }
   },
   "vullaby": {
@@ -5655,11 +5615,17 @@
   "zoroark": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/571"
+    },
+    "suffixes": {
+      "hisuian": "_hisuian"
     }
   },
   "zorua": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/570"
+    },
+    "suffixes": {
+      "hisuian": "_hisuian"
     }
   },
   "zubat": {
