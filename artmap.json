@@ -5113,7 +5113,7 @@
   },
   "unown": {
     "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/201_*",
+      "base": "modules/ptr2e-pkmn-sprites/sprites/201",
       "random": true
     }
   },
@@ -5241,7 +5241,7 @@
   },
   "vivillon": {
     "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/666_*",
+      "base": "modules/ptr2e-pkmn-sprites/sprites/666",
       "random": true
     }
   },
