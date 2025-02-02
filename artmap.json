@@ -1052,6 +1052,12 @@
   "deerling": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/585"
+    },
+    "suffixes": {
+      "spring": "_spring",
+      "summer": "_summer",
+      "autumn": "_autumn",
+      "winter": "_winter"
     }
   },
   "deino": {
@@ -4107,6 +4113,12 @@
   "sawsbuck": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/586"
+    },
+    "suffixes": {
+      "spring": "_spring",
+      "summer": "_summer",
+      "autumn": "_autumn",
+      "winter": "_winter"
     }
   },
   "scatterbug": {
@@ -4817,6 +4829,11 @@
   "tatsugiri": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/978"
+    },
+    "suffixes": {
+      "curly": "_curly",
+      "droopy": "_droopy",
+      "stretchy": "_stretchy"
     }
   },
   "tauros": {
@@ -5002,6 +5019,11 @@
   "toxtricity": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/849"
+    },
+    "suffixes": {
+      "lowkey": "_lowkey",
+      "highkey": "_highkey",
+      "gmax": "_gmax"
     }
   },
   "tranquill": {
