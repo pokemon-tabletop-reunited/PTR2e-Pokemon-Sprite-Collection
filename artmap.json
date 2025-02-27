@@ -808,7 +808,7 @@
   },
   "cleffa": {
     "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/174"
+      "base": "modules/ptr2e-pkmn-sprites/sprites/173"
     }
   },
   "clobbopus": {
@@ -3470,7 +3470,7 @@
   },
   "panpour": {
     "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/514"
+      "base": "modules/ptr2e-pkmn-sprites/sprites/515"
     }
   },
   "pansage": {
