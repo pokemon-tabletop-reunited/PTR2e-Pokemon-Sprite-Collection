@@ -7613,13 +7613,12 @@
   },
   "urayne": {
     "data": {
-      "base": "modules/ptr2e-pkmn-sprites/sprites/3164"
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3163"
     },
     "suffixes": {
       "alpha": "_alpha",
       "beta": "_beta",
       "gamma": "_gamma"
-
     }
   },
    "aotius": {
