@@ -7336,7 +7336,7 @@
       "base": "modules/ptr2e-pkmn-sprites/sprites/3109"
     },
     "suffixes": {
-      "dark": "dark",
+      "dark": "_dark",
       "mega": "_mega"
     }
   },
