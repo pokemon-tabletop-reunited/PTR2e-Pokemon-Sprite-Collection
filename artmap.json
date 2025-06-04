@@ -5609,5 +5609,3175 @@
       "50": "_50",
       "complete": "_complete"
     }
+  },
+  "delta-bulbasaur": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1500"
+    }
+  },
+  "delta-ivysaur": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1501"
+    }
+  },
+  "delta-venusaur": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1502"
+    },
+    "suffixes": {
+      "mega": "_mega"
+    }
+  },
+  "delta-charmander": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1503"
+    }
+  },
+  "delta-charmeleon": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1504"
+    }
+  },
+  "delta-charizard": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1505"
+    },
+    "suffixes": {
+      "mega": "_mega"
+    }
+  },
+  "delta-squirtle": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1506"
+    }
+  },
+  "delta-wartortle": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1507"
+    }
+  },
+  "delta-blastoise": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1508"
+    },
+    "suffixes": {
+      "mega": "_mega"
+    }
+  },
+  "delta-pawniard": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1509"
+    }
+  },
+  "delta-bisharp": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1510"
+    },
+    "suffixes": {
+      "mega": "_mega"
+    }
+  },
+  "delta-ralts": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1511"
+    }
+  },
+  "delta-kirlia": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1512"
+    }
+  },
+  "delta-gardevoir": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1513"
+    },
+    "suffixes": {
+      "mega": "_mega"
+    }
+  },
+  "delta-gallade": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1514"
+    },
+    "suffixes": {
+      "mega": "_mega"
+    }
+  },
+  "delta-sunkern": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1515"
+    }
+  },
+  "delta-sunflora": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1516"
+    },
+    "suffixes": {
+      "mega": "_mega"
+    }
+  },
+  "delta-bergmite": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1517"
+    }
+  },
+  "delta-avalugg": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1518"
+    }
+  },
+  "delta-scyther": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1519"
+    }
+  },
+  "delta-scizor": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1520"
+    },
+    "suffixes": {
+      "mega": "_mega"
+    }
+  },
+  "delta-scraggy": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1521"
+    }
+  },
+  "delta-scrafty": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1522"
+    }
+  },
+  "delta-combee": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1523"
+    }
+  },
+  "delta-vespiquen": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1524"
+    }
+  },
+  "delta-koffing": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1525"
+    }
+  },
+  "delta-weezing": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1526"
+    }
+  },
+  "delta-purrloin": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1527"
+    }
+  },
+  "delta-liepard": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1528"
+    },
+    "suffixes": {
+      "shade": "_shade"
+    }
+  },
+  "delta-phantump": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1529"
+    }
+  },
+  "delta-trevenant": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1530"
+    }
+  },
+  "delta-snorunt": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1531"
+    }
+  },
+  "delta-glalie": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1532"
+    }
+    ,
+    "suffixes": {
+      "mega": "_mega"
+    }
+  },
+  "delta-froslass": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1533"
+    }
+    ,
+    "suffixes": {
+      "mega": "_mega"
+    }
+  },
+  "delta-shinx": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1534"
+    }
+  },
+  "delta-luxio": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1535"
+    }
+  },
+  "delta-luxray": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1536"
+    }
+  },
+  "delta-noibat": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1537"
+    }
+  },
+  "delta-noivern": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1538"
+    }
+  },
+  "delta-budew": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1539"
+    }
+  },
+  "delta-roselia": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1540"
+    }
+  },
+  "delta-roserade": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1541"
+    }
+  },
+  "delta-drifloon": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1542"
+    }
+  },
+  "delta-drifblim": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1543"
+    }
+  },
+  "delta-grimer": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1544"
+    }
+  },
+  "delta-muk": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1545"
+    }
+    ,
+    "suffixes": {
+      "horsea": "horsea",
+      "bellsprout": "_bellsprout",
+      "magby": "_magby",
+      "deino": "_deino",
+      "whismur": "_whismur",
+      "natu": "_natu"
+    }
+  },
+  "delta-wooper": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1546"
+    }
+  },
+  "delta-quagsire": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1547"
+    }
+  },
+  "delta-munchlax": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1548"
+    },
+    "suffixes": {
+      "autumn": "_autumn",
+      "spring": "_spring",
+      "summer": "_summer",
+      "winter": "_winter"
+    }
+  },
+  "delta-snorlax": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1549"
+    }
+  },
+  "delta-misdreavus": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1550"
+    }
+  },
+  "delta-mismagius": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1551"
+    }
+  },
+  "delta-cyndaquil": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1552"
+    },
+    "suffixes": {
+      "mega": "_mega"
+    }
+  },
+  "delta-quilava": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1553"
+    }
+  },
+  "delta-typhlosion": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1554"
+    }
+  },
+  "delta-treecko": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1555"
+    }
+  },
+  "delta-grovyle": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1556"
+    }
+  },
+  "delta-sceptile": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1557"
+    }
+  },
+  "delta-torchic": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1558"
+    }
+  },
+  "delta-combusken": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1559"
+    }
+  },
+  "delta-blaziken": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1560"
+    }
+  },
+  "delta-turtwig": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1561"
+    }
+  },
+  "delta-grotle": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1562"
+    }
+  },
+  "delta-torterra": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1563"
+    }
+  },
+  "delta-snivy": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1564"
+    }
+  },
+  "delta-servine": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1565"
+    }
+  },
+  "delta-serperior": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1566"
+    }
+  },
+  "delta-froakie": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1567"
+    }
+  },
+  "delta-frogadier": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1568"
+    }
+  },
+  "delta-greninja": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1569"
+    }
+  },
+  "delta-pidgey": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1570"
+    }
+  },
+  "delta-pidgeotto": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1571"
+    }
+  },
+  "delta-pidgeot": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1572"
+    },
+    "suffixes": {
+      "mega": "_mega"
+    }
+  },
+  "delta-diglett": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1573"
+    }
+  },
+  "delta-dugtrio": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1574"
+    }
+  },
+  "delta-growlithe": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1575"
+    }
+  },
+  "delta-arcanine": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1576"
+    }
+  },
+  "delta-geodude": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1577"
+    }
+  },
+  "delta-graveler": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1578"
+    }
+  },
+  "delta-golem": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1579"
+    }
+  },
+  "delta-tentacool": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1580"
+    }
+  },
+  "delta-tentacruel": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1581"
+    }
+  },
+  "delta-doduo": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1582"
+    }
+  },
+  "delta-dodrio": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1583"
+    }
+  },
+  "delta-tangela": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1584"
+    }
+  },
+  "delta-tangrowth": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1585"
+    }
+  },
+  "delta-ditto": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1586"
+    }
+  },
+  "delta-kabuto": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1587"
+    }
+  },
+  "delta-kabutops": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1588"
+    }
+  },
+  "delta-dratini": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1589"
+    }
+  },
+  "delta-dragonair": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1590"
+    }
+  },
+  "delta-dragonite": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1591"
+    }
+  },
+  "delta-hoothoot": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1592"
+    }
+  },
+  "delta-noctowl": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1593"
+    }
+  },
+  "delta-chinchou": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1594"
+    }
+  },
+  "delta-lanturn": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1595"
+    }
+  },
+  "delta-pichu": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1596"
+    }
+  },
+  "delta-pikachu": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1597"
+    }
+  },
+  "delta-raichu": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1598"
+    }
+  },
+  "delta-aipom": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1599"
+    }
+  },
+  "delta-ambipom": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1600"
+    }
+  },
+  "delta-yanma": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1601"
+    }
+  },
+  "delta-yanmega": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1602"
+    }
+  },
+  "delta-girafarig": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1603"
+    },
+    "suffixes": {
+      "mega": "_mega"
+    }
+  },
+  "delta-dunsparce": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1604"
+    }
+  },
+  "delta-shuckle": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1605"
+    }
+  },
+  "delta-remoraid": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1606"
+    }
+  },
+  "delta-octillery": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1607"
+    }
+  },
+  "delta-elekid": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1608"
+    }
+  },
+  "delta-electabuzz": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1609"
+    }
+  },
+  "delta-electivire": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1610"
+    }
+  },
+  "delta-magby": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1611"
+    }
+  },
+  "delta-magmar": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1612"
+    }
+  },
+  "delta-magmortar": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1613"
+    }
+  },
+  "delta-lotad": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1614"
+    }
+  },
+  "delta-lombre": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1615"
+    }
+  },
+  "delta-ludicolo": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1616"
+    }
+  },
+  "delta-seedot": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1617"
+    }
+  },
+  "delta-nuzleaf": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1618"
+    }
+  },
+  "delta-shiftry": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1619"
+    }
+  },
+  "delta-sableye": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1620"
+    },
+    "suffixes": {
+      "mega": "_mega"
+    }
+  },
+  "delta-mawile": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1621"
+    },
+    "suffixes": {
+      "mega": "_mega"
+    }
+  },
+  "delta-aron": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1622"
+    }
+  },
+  "delta-lairon": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1623"
+    }
+  },
+  "delta-aggron": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1624"
+    }
+  },
+  "delta-meditite": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1625"
+    }
+  },
+  "delta-medicham": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1626"
+    },
+    "suffixes": {
+      "mega": "_mega"
+    }
+  },
+  "delta-numel": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1627"
+    }
+  },
+  "delta-camerupt": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1628"
+    },
+    "suffixes": {
+      "mega": "_mega"
+    }
+  },
+  "delta-plusle": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1629"
+    }
+  },
+  "delta-minun": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1630"
+    }
+  },
+  "delta-wailmer": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1631"
+    }
+  },
+  "delta-wailord": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1632"
+    }
+  },
+  "delta-feebas": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1633"
+    }
+  },
+  "delta-milotic": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1634"
+    },
+    "suffixes": {
+      "mega": "_mega"
+    }
+  },
+  "delta-clamperl": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1635"
+    }
+  },
+  "delta-huntail": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1636"
+    }
+  },
+  "delta-gorebyss": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1637"
+    }
+  },
+  "delta-beldum-spider": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1638"
+    }
+  },
+  "delta-metang-spider": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1639"
+    }
+  },
+  "delta-metagross-spider": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1640"
+    },
+    "suffixes": {
+      "mega": "_mega"
+    }
+  },
+  "delta-beldum-ruin": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1641"
+    }
+  },
+  "delta-metang-ruin": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1642"
+    }
+  },
+  "delta-metagross-ruin": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1643"
+    },
+    "suffixes": {
+      "mega": "_mega",
+      "crystal": "_crystalization"
+    }
+  },
+  "delta-buneary": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1644"
+    }
+  },
+  "delta-lopunny": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1645"
+    },
+    "suffixes": {
+      "mega": "_mega"
+    }
+  },
+  "delta-riolu": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1646"
+    }
+  },
+  "delta-lucario": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1647"
+    },
+    "suffixes": {
+      "mega": "_mega"
+    }
+  },
+  "delta-croagunk": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1648"
+    }
+  },
+  "delta-toxicroak": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1649"
+    }
+  },
+  "delta-venipede": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1650"
+    }
+  },
+  "delta-whirlipede": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1651"
+    }
+  },
+  "delta-scolipede": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1652"
+    }
+  },
+  "delta-petilil-water": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1653"
+    }
+  },
+  "delta-lilligant-water": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1654"
+    }
+  },
+  "delta-petilil-fairy": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1655"
+    }
+  },
+  "delta-lilligant-fairy": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1656"
+    }
+  },
+  "delta-solosis": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1657"
+    }
+  },
+  "delta-duosion": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1658"
+    }
+  },
+  "delta-reuniclus": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1659"
+    }
+  },
+  "delta-darumaka": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1660"
+    }
+  },
+  "delta-darmanitan": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1661"
+    }
+  },
+  "delta-maractus": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1662"
+    }
+  },
+  "delta-dwebble-berry": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1663"
+    }
+  },
+  "delta-crustle-berry": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1664"
+    }
+  },
+  "delta-dwebble-cake": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1665"
+    }
+  },
+  "delta-crustle-cake": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1666"
+    }
+  },
+  "delta-yamask": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1667"
+    }
+  },
+  "delta-cofagrigus": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1668"
+    }
+  },
+  "delta-emolga": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1669"
+    }
+  },
+  "delta-karrablast": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1670"
+    }
+  },
+  "delta-escavalier": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1671"
+    }
+  },
+  "delta-foongus": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1672"
+    }
+  },
+  "delta-amoongus": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1673"
+    }
+  },
+  "delta-litwick": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1674"
+    }
+  },
+  "delta-lampent": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1675"
+    }
+  },
+  "delta-chandelure": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1676"
+    }
+  },
+  "delta-axew": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1677"
+    }
+  },
+  "delta-fraxure": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1678"
+    }
+  },
+  "delta-haxorus": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1679"
+    }
+  },
+  "delta-golett": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1680"
+    }
+  },
+  "delta-golurk": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1681"
+    }
+  },
+  "delta-heatmor": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1682"
+    }
+  },
+  "delta-deino": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1683"
+    }
+  },
+  "delta-zweilous": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1684"
+    }
+  },
+  "delta-hydreigon": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1685"
+    }
+  },
+  "delta-larvesta": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1686"
+    }
+  },
+  "delta-volcarona": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1687"
+    },
+    "suffixes": {
+      "armored": "_armor"
+    }
+  },
+  "delta-amaura": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1688"
+    }
+  },
+  "delta-aurorus": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1689"
+    }
+  },
+  "delta-goomy": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1690"
+    }
+  },
+  "delta-sliggoo": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1691"
+    }
+  },
+  "delta-goodra": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1692"
+    }
+  },
+  "delta-regirock": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1693"
+    }
+  },
+  "delta-regice": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1694"
+    }
+  },
+  "delta-registeel": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1695"
+    }
+  },
+  "delta-meloetta": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1696"
+    }
+  },
+  "delta-hoopa": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1697"
+    },
+    "suffixes": {
+      "unbound": "_unbound"
+    }
+  },
+  "ufi": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1698"
+    }
+  },
+   "vahirom": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1498"
+    }
+  },
+  "ghost": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/ghost"
+    }
+  },
+  "shadeon": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/2617"
+    }
+  },
+  "centureon": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/2620"
+    }
+  },
+  "aviateon": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/2619"
+    }
+  },
+  "champeon": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/2621"
+    }
+  },
+  "companeon": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/2622"
+    }
+  },
+  "corroseon": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/2623"
+    }
+  },
+  "lungeon": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/2625"
+    }
+  },
+  "arideon": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/2618"
+    }
+  },
+  "wispeon": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/2627"
+    }
+  },
+  "tricereon": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/2626"
+    }
+  },
+  "entoeon": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/2624"
+    }
+  },
+  "wyveon": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/2628"
+    }
+  },
+  "halloweeneon": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/2629"
+    }
+  },
+  "orchynyx": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3001"
+    }
+  },
+  "metalynx": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3002"
+    },
+    "suffixes": {
+      "mega": "_mega"
+    }
+  },
+  "raptorch": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3003"
+    }
+  },
+  "archilles": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3004"
+    },
+    "suffixes": {
+      "mega": "_mega"
+    }
+  },
+  "eletux": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3005"
+    }
+  },
+  "Electruxo": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3006"
+    },
+    "suffixes": {
+      "mega": "_mega"
+    }
+  },
+  "chyinmunk": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3007"
+    }
+  },
+  "kinetmunk": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3008"
+    }
+  },
+  "birbie": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3009"
+    }
+  },
+  "aveden": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3010"
+    }
+  },
+  "splendifowl": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3011"
+    }
+  },
+  "cubbug": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3012"
+    }
+  },
+  "cubblfly": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3013"
+    }
+  },
+  "nimflora": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3014"
+    }
+  },
+  "barewl": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3015"
+    }
+  },
+  "dearewl": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3016"
+    }
+  },
+  "gararewl": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3017"
+    }
+  },
+  "grozard": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3018"
+    }
+  },
+  "terlard": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3019"
+    }
+  },
+  "tonemy": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3020"
+    }
+  },
+  "tofurang": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3021"
+    }
+  },
+  "dunseraph": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3022"
+    }
+  },
+  "fortog": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3023"
+    }
+  },
+  "folerog": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3024"
+    }
+  },
+  "blubelrog": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3025"
+    }
+  },
+  "feleng": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3026"
+    }
+  },
+   "felunge": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3027"
+    }
+  },
+  "feliger": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/2028"
+    }
+  },
+  "empirilla": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3029"
+    }
+  },
+  "owten": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3030"
+    }
+  },
+  "eshouten": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3031"
+    }
+  },
+  "smore": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3032"
+    }
+  },
+  "firoke": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3033"
+    }
+  },
+  "brailip": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3034"
+    }
+  },
+  "brainoar": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3035"
+    }
+  },
+  "tanupy": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3036"
+    }
+  },
+  "tanscure": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3037"
+    }
+  },
+  "sponee": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3038"
+    }
+  },
+  "sponaree": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3039"
+    }
+  },
+  "pahar": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3040"
+    }
+  },
+  "palij": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3041"
+    }
+  },
+  "pajay": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3042"
+    }
+  },
+  "jerbolta": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3043"
+    }
+  },
+  "comite": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3044"
+    }
+  },
+  "cometeor": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3045"
+    }
+  },
+  "astronite": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3046"
+    }
+  },
+  "baashaun": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3047"
+    }
+  },
+  "baaschaf": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3048"
+    }
+  },
+  "baariette": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3049"
+    },
+    "suffixes": {
+      "mega": "_mega"
+    }
+  },
+  "tricwe": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3050"
+    }
+  },
+  "harylect": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3051"
+    }
+  },
+  "costraw": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3052"
+    }
+  },
+  "trawpint": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3053"
+    }
+  },
+  "lunapup": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3054"
+    }
+  },
+  "herolune": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3055"
+    }
+  },
+  "minyan": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3056"
+    }
+  },
+  "vilucard": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3057"
+    }
+  },
+  "modrille": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3058"
+    }
+  },
+  "drilgann": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3059"
+    }
+  },
+  "cocaran": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3060"
+    }
+  },
+  "cararalm": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3061"
+    }
+  },
+  "cocancer": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3062"
+    }
+  },
+  "corsoreef": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3063"
+    }
+  },
+  "tubjaw": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3064"
+    }
+  },
+  "tubareel": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3065"
+    }
+  },
+  "cassnail": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3066"
+    }
+  },
+  "sableau": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3067"
+    }
+  },
+  "escartress": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3068"
+    }
+  },
+  "nupin": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3069"
+    }
+  },
+  "gellin": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3070"
+    }
+  },
+  "barand": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3071"
+    }
+  },
+  "glaslug": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3072"
+    }
+  },
+  "glavinug": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3073"
+    }
+  },
+  "s51": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3074"
+    }
+  },
+  "s51-a": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3075"
+    }
+  },
+  "paraudio": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3076"
+    }
+  },
+  "paraboom": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3077"
+    }
+  },
+  "flager": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3078"
+    }
+  },
+  "inflagetah": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3079"
+    },
+    "suffixes": {
+      "mega": "_mega"
+    }
+  },
+  "chimical": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3080"
+    }
+  },
+  "chimaconda": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3081"
+    }
+  },
+  "tikiki": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3082"
+    }
+  },
+  "frikitiki": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3083"
+    }
+  },
+  "unymph": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3084"
+    }
+  },
+  "harptera": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3085"
+    }
+  },
+  "chicoatl": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3086"
+    }
+  },
+  "quetzoral": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3087"
+    }
+  },
+  "coatilth": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3088"
+    }
+  },
+  "tracton": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3089"
+    }
+  },
+  "snopach": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3090"
+    }
+  },
+  "dermafrost": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3091"
+    }
+  },
+  "slothohm": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3092"
+    }
+  },
+  "theriamp": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3093"
+    }
+  },
+  "titanice": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3094"
+    }
+  },
+  "frynai": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3095"
+    }
+  },
+  "saidine": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3096"
+    }
+  },
+  "daikatuna": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3097"
+    }
+  },
+  "selkid": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3098"
+    }
+  },
+  "syrentide": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3099"
+    },
+    "suffixes": {
+      "mega": "_mega"
+    }
+  },
+  "miasmedic": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3100"
+    }
+  },
+  "jackdeary": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3101"
+    }
+  },
+  "winotinger": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3102"
+    }
+  },
+  "duplicat": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3103"
+    }
+  },
+  "nucleon": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3104"
+    }
+  },
+  "ratsy": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3105"
+    }
+  },
+  "raffiti": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3106"
+    }
+  },
+  "gargryph": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3107"
+    }
+  },
+  "masking": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3108"
+    }
+  },
+  "dramasama": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3109"
+    },
+    "suffixes": {
+      "dark": "dark",
+      "mega": "_mega"
+    }
+  },
+  "antarki": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3110"
+    }
+  },
+  "chupacho": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3111"
+    }
+  },
+  "luchabra": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3112"
+    }
+  },
+  "linkite": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3113"
+    }
+  },
+  "chainite": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3114"
+    }
+  },
+  "pufluff": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3115"
+    }
+  },
+  "alpico": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3116"
+    }
+  },
+  "anderind": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3117"
+    }
+  },
+  "colarva": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3118"
+    }
+  },
+  "frosulo": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3119"
+    }
+  },
+  "frosthra": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3120"
+    }
+  },
+  "fafurr": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3121"
+    }
+  },
+  "fafninter": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3122"
+    }
+  },
+  "shrimputy": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3123"
+    }
+  },
+  "krilvolver": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3124"
+    }
+  },
+  "lavent": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3125"
+    }
+  },
+  "swabone": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3126"
+    }
+  },
+  "skelerogue": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3127"
+    }
+  },
+  "navighast": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3128"
+    }
+  },
+  "stenowatt": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3129"
+    }
+  },
+  "jungore": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3130"
+    }
+  },
+  "majungold": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3131"
+    }
+  },
+  "hagoop": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3132"
+    }
+  },
+  "haagross": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3133"
+    }
+  },
+  "xenomite": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3134"
+    }
+  },
+  "xenogen": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3135"
+    }
+  },
+  "xenoqueen": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3136"
+    }
+  },
+  "hazma": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3137"
+    }
+  },
+  "geigeroach": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3138"
+    }
+  },
+  "minicorn": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3139"
+    }
+  },
+  "kiricorn": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3140"
+    },
+    "suffixes": {
+      "mega": "_mega"
+    }
+  },
+  "oblivicorn": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3141"
+    },
+    "suffixes": {
+      "mega": "_mega"
+    }
+  },
+  "luxi": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3142"
+    }
+  },
+  "luxor": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3143"
+    }
+  },
+  "luxelong": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3144"
+    }
+  },
+  "praseopunk": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3145"
+    }
+  },
+  "neopunk": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3146"
+    }
+  },
+  "sheebit": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3147"
+    }
+  },
+  "terrabbit": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3148"
+    }
+  },
+  "laissure": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3149"
+    }
+  },
+  "volchik": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3150"
+    }
+  },
+  "voltasu": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3151"
+    }
+  },
+  "yatagaryu": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3152"
+    }
+  },
+  "devimp": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3153"
+    }
+  },
+  "fallengel": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3154"
+    }
+  },
+  "beliaddon": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3155"
+    }
+  },
+  "seikamater": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3156"
+    }
+  },
+  "garlikid": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3157"
+    }
+  },
+  "baitatao": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3158"
+    }
+  },
+  "leviathao": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3159"
+    }
+  },
+  "krakanao": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3160"
+    }
+  },
+  "lanathan": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3161"
+    }
+  },
+  "actan": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3162"
+    }
+  },
+  "urayne": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3164"
+    },
+    "suffixes": {
+      "alpha": "_alpha",
+      "beta": "_beta",
+      "gamma": "_gamma"
+
+    }
+  },
+   "aotius": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3165"
+    }
+  },
+  "mutios": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3166"
+    }
+  },
+  "foliat": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3501"
+    }
+  },
+  "florabri": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3502"
+    }
+  },
+  "floressum": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3503"
+    }
+  },
+  "kidling": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3504"
+    }
+  },
+  "pyroat": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3505"
+    }
+  },
+  "flairees": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3506"
+    }
+  },
+  "aguade": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3507"
+    }
+  },
+  "iguadium": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3508"
+    }
+  },
+  "aguanaut": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3509"
+    }
+  },
+  "harpee": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3510"
+    }
+  },
+  "aquilor": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3511"
+    }
+  },
+  "warquila": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3512"
+    }
+  },
+  "capig": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3513"
+    }
+  },
+  "capabara": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3514"
+    }
+  },
+  "cubzero": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3515"
+    }
+  },
+  "avalynx": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3516"
+    }
+  },
+  "fawning": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3517"
+    }
+  },
+  "llamarsh": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3518"
+    }
+  },
+  "buckston": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3519"
+    }
+  },
+  "pengliff": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3520"
+    }
+  },
+  "penglacier": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3521"
+    }
+  },
+  "bluffin": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3522"
+    }
+  },
+  "burrmudail": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3523"
+    }
+  },
+  "koblin": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3524"
+    }
+  },
+  "koberus": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3525"
+    }
+  },
+  "kobalt": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3526"
+    }
+  },
+  "pebblosa": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3527"
+    }
+  },
+  "terratetra": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3528"
+    }
+  },
+  "gigaard": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3529"
+    }
+  },
+  "cowatti": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3530"
+    }
+  },
+  "snome": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3531"
+    }
+  },
+  "snogre": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3532"
+    }
+  },
+  "taomarin": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3533"
+    }
+  },
+  "orangutao": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3534"
+    }
+  },
+  "larvabidae": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3535"
+    }
+  },
+  "caranox": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3536"
+    }
+  },
+  "carajoule": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3537"
+    }
+  },
+  "caracrust": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3538"
+    }
+  },
+  "musburry": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3539"
+    }
+  },
+  "musbushel": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3540"
+    }
+  },
+  "berratel": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3541"
+    }
+  },
+  "growmeo": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3542"
+    }
+  },
+  "montegrew": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3543"
+    }
+  },
+  "tuliep": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3544"
+    }
+  },
+  "capulilly": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3545"
+    }
+  },
+  "dreamdery": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3546"
+    }
+  },
+  "macabra": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3547"
+    }
+  },
+  "kertruffle": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3548"
+    }
+  },
+  "mosshroom": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3549"
+    }
+  },
+  "lumishroom": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3550"
+    }
+  },
+  "perishroom": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3551"
+    }
+  },
+  "rocano": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3552"
+    }
+  },
+  "volcaroc": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3553"
+    }
+  },
+  "volcoalder": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3554"
+    }
+  },
+  "pounther": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3555"
+    }
+  },
+  "jaguile": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3556"
+    }
+  },
+  "neureka": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3557"
+    }
+  },
+  "cerebrulb": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3558"
+    }
+  },
+  "peppit": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3559"
+    }
+  },
+  "hoppanero": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3560"
+    }
+  },
+  "scovalope": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3561"
+    }
+  },
+  "pawter": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3562"
+    }
+  },
+  "hurricanine": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3563"
+    }
+  },
+  "skullarva": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3564"
+    }
+  },
+  "maskoon": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3565"
+    }
+  },
+  "mortasque": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3566"
+    }
+  },
+  "vectol": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3567"
+    }
+  },
+  "vectol.2": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3568"
+    }
+  },
+  "bouwee": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3569"
+    }
+  },
+  "scubug": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3570"
+    }
+  },
+  "totter": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3571"
+    }
+  },
+  "cascotta": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3572"
+    }
+  },
+  "lutrajet": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3573"
+    }
+  },
+  "alpint": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3574"
+    }
+  },
+  "forusk": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3575"
+    }
+  },
+  "platypow": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3576"
+    }
+  },
+  "platikhao": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3577"
+    }
+  },
+  "cuppy": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3578"
+    }
+  },
+  "fettlekish": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3579"
+    }
+  },
+  "shibalbat": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3580"
+    }
+  },
+  "nobunata": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3581"
+    }
+  },
+  "psybex": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3582"
+    }
+  },
+  "gnuru": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3583"
+    }
+  },
+  "flowger": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3584"
+    }
+  },
+  "bullotus": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3585"
+    }
+  },
+  "burrowl": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3586"
+    }
+  },
+  "magowl": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3587"
+    }
+  },
+  "craliber": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3588"
+    }
+  },
+  "crawglock": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3589"
+    }
+  },
+  "leafish": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3590"
+    }
+  },
+  "chlorofin": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3591"
+    }
+  },
+  "quibble": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3592"
+    }
+  },
+  "fowattle": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3593"
+    }
+  },
+  "turkistador": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3594"
+    }
+  },
+  "sedirrot": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3595"
+    }
+  },
+  "condesa": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3596"
+    }
+  },
+  "cardinite": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3597"
+    }
+  },
+  "chardinal": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3598"
+    }
+  },
+  "skurrow": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3599"
+    }
+  },
+  "somberado": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3600"
+    }
+  },
+  "phlask": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3601"
+    }
+  },
+  "noxial": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3602"
+    }
+  },
+  "fumighast": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3603"
+    }
+  },
+  "atomite": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3604"
+    }
+  },
+  "orbatom": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3605"
+    }
+  },
+  "squink": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3606"
+    }
+  },
+  "squidrift": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3607"
+    }
+  },
+  "boarealis": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3608"
+    }
+  },
+  "chelonite": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3609"
+    }
+  },
+  "galaxagos": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3610"
+    }
+  },
+  "magnitogre": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3611"
+    }
+  },
+  "minarac": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3612"
+    }
+  },
+  "trenchula": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3613"
+    }
+  },
+  "pottle": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3614"
+    }
+  },
+  "trikotta": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3615"
+    }
+  },
+  "terrorcotta": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3616"
+    }
+  },
+  "pueblant": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3617"
+    }
+  },
+  "cahokisect": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3618"
+    }
+  },
+  "cobrasket": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3619"
+    }
+  },
+  "charmbra": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3620"
+    }
+  },
+  "cairup": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3621"
+    }
+  },
+  "kairoglyph": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3622"
+    }
+  },
+  "necronite": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3623"
+    }
+  },
+  "gravollum": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3624"
+    }
+  },
+  "diloweed": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3625"
+    }
+  },
+  "pangolash": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3626"
+    }
+  },
+  "ignishell": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3627"
+    }
+  },
+  "shelosene": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3628"
+    }
+  },
+  "flarrapin": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3629"
+    }
+  },
+  "desoula": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3630"
+    }
+  },
+  "necrow": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3631"
+    }
+  },
+  "vultergyst": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3632"
+    }
+  },
+  "dinkywink": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3633"
+    }
+  },
+  "dunkywunkr": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3634"
+    }
+  },
+  "calphite": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3635"
+    }
+  },
+  "indrolith": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3636"
+    }
+  },
+  "solacari": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3637"
+    }
+  },
+  "nurshary": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3638"
+    }
+  },
+  "loneleaf": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3639"
+    }
+  },
+  "forthorn": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3640"
+    }
+  },
+  "coltergeist": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3641"
+    }
+  },
+  "fantasmare": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3642"
+    }
+  },
+  "chihaha": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3643"
+    }
+  },
+  "howlequin": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3644"
+    }
+  },
+  "chegrin": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3645"
+    }
+  },
+  "cheshade": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3646"
+    }
+  },
+  "doppole": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3647"
+    }
+  },
+  "artifish": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3648"
+    }
+  },
+  "thoraxe": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3649"
+    }
+  },
+  "pomparunt": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3650"
+    }
+  },
+  "pompagoon": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3651"
+    }
+  },
+  "hyekuza": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3652"
+    }
+  },
+  "erycoon": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3653"
+    }
+  },
+  "leukoon": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3654"
+    }
+  },
+  "toxito": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3655"
+    }
+  },
+  "sanquito": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3656"
+    }
+  },
+  "orett": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3657"
+    }
+  },
+  "anvelid": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3658"
+    }
+  },
+  "magroplex": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3659"
+    }
+  },
+  "viipii": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3660"
+    }
+  },
+  "chilloth": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3661"
+    }
+  },
+  "soakoth": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3662"
+    }
+  },
+  "chayan": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3663"
+    }
+  },
+  "macuarrior": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3664"
+    }
+  },
+  "ocerumi": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3665"
+    }
+  },
+  "fortifry": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3666"
+    }
+  },
+  "oarwish": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3667"
+    }
+  },
+  "smashiary": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3668"
+    }
+  },
+  "slatic": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3669"
+    }
+  },
+  "telsion": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3670"
+    }
+  },
+  "chameleohm": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3671"
+    }
+  },
+  "glauqua": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3672"
+    }
+  },
+  "hydranticus": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3673"
+    }
+  },
+  "lintle": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3674"
+    }
+  },
+  "silkinder": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3675"
+    }
+  },
+  "paramoth": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3676"
+    }
+  },
+  "parapy": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3677"
+    }
+  },
+  "mawasite": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3678"
+    }
+  },
+  "chimpoca": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3679"
+    }
+  },
+  "simayan": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3680"
+    }
+  },
+  "monkezuma": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3681"
+    }
+  },
+  "enigmite": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3682"
+    }
+  },
+  "enigmantis": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3683"
+    }
+  },
+  "arjibi": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3684"
+    }
+  },
+  "royjibiv": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3685"
+    }
+  },
+  "barracute": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3686"
+    }
+  },
+  "jawgodon": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3687"
+    }
+  },
+  "drosire": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3688"
+    }
+  },
+  "sunduke": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3689"
+    }
+  },
+  "wispern": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3690"
+    }
+  },
+  "phantern": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3691"
+    }
+  },
+  "glocto": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3692"
+    }
+  },
+  "lavoon": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3693"
+    }
+  },
+  "gilla": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3694"
+    }
+  },
+  "hornizard": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3695"
+    }
+  },
+  "ankillosore": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3696"
+    }
+  },
+  "bazilisk": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3697"
+    }
+  },
+  "ornitherb": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3698"
+    }
+  },
+  "dilophlora": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3699"
+    }
+  },
+  "baboom": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3700"
+    }
+  },
+  "icetope": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3701"
+    }
+  },
+  "chillnobyl": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3702"
+    }
+  },
+  "wendingo": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3703"
+    }
+  },
+  "carnibal": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3704"
+    }
+  },
+  "luchito": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3705"
+    }
+  },
+  "eluchadon": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3706"
+    }
+  },
+  "grolem": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3707"
+    }
+  },
+  "comossus": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3708"
+    }
+  },
+  "larvyn": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3709"
+    }
+  },
+  "dracoon": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3710"
+    }
+  },
+  "basilect": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3711"
+    }
+  },
+  "carbite": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3712"
+    }
+  },
+  "pressaur": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3713"
+    }
+  },
+  "diamat": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3714"
+    }
+  },
+  "quecko": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3715"
+    }
+  },
+  "tozecko": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3716"
+    }
+  },
+  "crakling": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3717"
+    }
+  },
+  "fuelong": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3718"
+    }
+  },
+  "draggar": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3719"
+    }
+  },
+  "ragnarow": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3720"
+    }
+  },
+  "eronze": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3721"
+    }
+  },
+  "erion": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3722"
+    }
+  },
+  "erace": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3723"
+    }
+  },
+  "patama": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3724"
+    }
+  },
+  "machima": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3725"
+    }
+  },
+  "yacuma": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3726"
+    }
+  },
+  "quetzar": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3727"
+    },
+    "suffixes": {
+      "space": "_space"
+    }
+  },
+  "xochi": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3728"
+    }
+  },
+  "xotec": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/3729"
+    }
   }
 }
