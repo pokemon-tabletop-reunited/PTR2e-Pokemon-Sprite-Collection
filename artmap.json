@@ -1080,6 +1080,1001 @@
       "base": "modules/ptr2e-pkmn-sprites/sprites/655"
     }
   },
+  "delta-bulbasaur": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1500"
+    }
+  },
+  "delta-ivysaur": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1501"
+    }
+  },
+  "delta-venusaur": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1502"
+    }
+  },
+  "delta-charmander": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1503"
+    }
+  },
+  "delta-charmeleon": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1504"
+    }
+  },
+  "delta-charizard": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1505"
+    }
+  },
+  "delta-squirtle": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1506"
+    }
+  },
+  "delta-wartortle": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1507"
+    }
+  },
+  "delta-blastoise": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1508"
+    }
+  },
+  "delta-pawniard": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1509"
+    }
+  },
+  "delta-bisharp": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1510"
+    }
+  },
+  "delta-ralts": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1511"
+    }
+  },
+  "delta-kirlia": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1512"
+    }
+  },
+  "delta-gardevoir": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1513"
+    }
+  },
+  "delta-gallade": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1514"
+    }
+  },
+  "delta-sunkern": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1515"
+    }
+  },
+  "delta-sunflora": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1516"
+    }
+  },
+  "delta-bergmite": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1517"
+    }
+  },
+  "delta-avalugg": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1518"
+    }
+  },
+  "delta-scyther": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1519"
+    }
+  },
+  "delta-scizor": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1520"
+    }
+  },
+  "delta-scraggy": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1521"
+    }
+  },
+  "delta-scrafty": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1522"
+    }
+  },
+  "delta-combee": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1523"
+    }
+  },
+  "delta-vespiquen": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1524"
+    }
+  },
+  "delta-koffing": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1525"
+    }
+  },
+  "delta-weezing": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1526"
+    }
+  },
+  "delta-purrloin": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1527"
+    }
+  },
+  "delta-liepard": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1528"
+    }
+  },
+  "delta-phantump": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1529"
+    }
+  },
+  "delta-trevenant": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1530"
+    }
+  },
+  "delta-snorunt": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1531"
+    }
+  },
+  "delta-glalie": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1532"
+    }
+  },
+  "delta-froslass": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1533"
+    }
+  },
+  "delta-shinx": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1534"
+    }
+  },
+  "delta-luxio": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1535"
+    }
+  },
+  "delta-luxray": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1536"
+    }
+  },
+  "delta-noibat": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1537"
+    }
+  },
+  "delta-noivern": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1538"
+    }
+  },
+  "delta-budew": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1539"
+    }
+  },
+  "delta-roselia": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1540"
+    }
+  },
+  "delta-roserade": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1541"
+    }
+  },
+  "delta-drifloon": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1542"
+    }
+  },
+  "delta-drifblim": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1543"
+    }
+  },
+  "delta-grimer": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1544"
+    }
+  },
+  "delta-muk": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1545"
+    }
+  },
+  "delta-wooper": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1546"
+    }
+  },
+  "delta-quagsire": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1547"
+    }
+  },
+  "delta-munchlax": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1548"
+    }
+  },
+  "delta-snorlax": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1549"
+    }
+  },
+  "delta-misdreavus": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1550"
+    }
+  },
+  "delta-mismagius": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1551"
+    }
+  },
+  "delta-cyndaquil": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1552"
+    }
+  },
+  "delta-quilava": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1553"
+    }
+  },
+  "delta-typhlosion": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1554"
+    }
+  },
+  "delta-treecko": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1555"
+    }
+  },
+  "delta-grovyle": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1556"
+    }
+  },
+  "delta-sceptile": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1557"
+    }
+  },
+  "delta-torchic": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1558"
+    }
+  },
+  "delta-combusken": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1559"
+    }
+  },
+  "delta-blaziken": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1560"
+    }
+  },
+  "delta-turtwig": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1561"
+    }
+  },
+  "delta-grotle": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1562"
+    }
+  },
+  "delta-torterra": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1563"
+    }
+  },
+  "delta-snivy": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1564"
+    }
+  },
+  "delta-servine": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1565"
+    }
+  },
+  "delta-serperior": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1566"
+    }
+  },
+  "delta-froakie": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1567"
+    }
+  },
+  "delta-frogadier": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1568"
+    }
+  },
+  "delta-greninja": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1569"
+    }
+  },
+  "delta-pidgey": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1570"
+    }
+  },
+  "delta-pidgeotto": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1571"
+    }
+  },
+  "delta-pidgeot": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1572"
+    }
+  },
+  "delta-diglett": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1573"
+    }
+  },
+  "delta-dugtrio": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1574"
+    }
+  },
+  "delta-growlithe": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1575"
+    }
+  },
+  "delta-arcanine": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1576"
+    }
+  },
+  "delta-geodude": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1577"
+    }
+  },
+  "delta-graveler": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1578"
+    }
+  },
+  "delta-golem": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1579"
+    }
+  },
+  "delta-tentacool": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1580"
+    }
+  },
+  "delta-tentacruel": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1581"
+    }
+  },
+  "delta-doduo": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1582"
+    }
+  },
+  "delta-dodrio": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1583"
+    }
+  },
+  "delta-tangela": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1584"
+    }
+  },
+  "delta-tangrowth": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1585"
+    }
+  },
+  "delta-ditto": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1586"
+    }
+  },
+  "delta-kabuto": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1587"
+    }
+  },
+  "delta-kabutops": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1588"
+    }
+  },
+  "delta-dratini": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1589"
+    }
+  },
+  "delta-dragonair": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1590"
+    }
+  },
+  "delta-dragonite": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1591"
+    }
+  },
+  "delta-hoothoot": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1592"
+    }
+  },
+  "delta-noctowl": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1593"
+    }
+  },
+  "delta-chinchou": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1594"
+    }
+  },
+  "delta-lanturn": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1595"
+    }
+  },
+  "delta-pichu": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1596"
+    }
+  },
+  "delta-pikachu": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1597"
+    }
+  },
+  "delta-raichu": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1598"
+    }
+  },
+  "delta-aipom": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1599"
+    }
+  },
+  "delta-ambipom": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1600"
+    }
+  },
+  "delta-yanma": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1601"
+    }
+  },
+  "delta-yanmega": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1602"
+    }
+  },
+  "delta-girafarig": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1603"
+    }
+  },
+  "delta-dunsparce": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1604"
+    }
+  },
+  "delta-shuckle": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1605"
+    }
+  },
+  "delta-remoraid": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1606"
+    }
+  },
+  "delta-octillery": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1607"
+    }
+  },
+  "delta-elekid": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1608"
+    }
+  },
+  "delta-electabuzz": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1609"
+    }
+  },
+  "delta-electivire": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1610"
+    }
+  },
+  "delta-magby": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1611"
+    }
+  },
+  "delta-magmar": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1612"
+    }
+  },
+  "delta-magmortar": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1613"
+    }
+  },
+  "delta-lotad": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1614"
+    }
+  },
+  "delta-lombre": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1615"
+    }
+  },
+  "delta-ludicolo": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1616"
+    }
+  },
+  "delta-seedot": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1617"
+    }
+  },
+  "delta-nuzleaf": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1618"
+    }
+  },
+  "delta-shiftry": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1619"
+    }
+  },
+  "delta-sableye": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1620"
+    }
+  },
+  "delta-mawile": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1621"
+    }
+  },
+  "delta-aron": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1622"
+    }
+  },
+  "delta-lairon": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1623"
+    }
+  },
+  "delta-aggron": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1624"
+    }
+  },
+  "delta-meditite": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1625"
+    }
+  },
+  "delta-medicham": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1626"
+    }
+  },
+  "delta-numel": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1627"
+    }
+  },
+  "delta-camerupt": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1628"
+    }
+  },
+  "delta-plusle": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1629"
+    }
+  },
+  "delta-minun": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1630"
+    }
+  },
+  "delta-wailmer": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1631"
+    }
+  },
+  "delta-wailord": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1632"
+    }
+  },
+  "delta-feebas": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1633"
+    }
+  },
+  "delta-milotic": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1634"
+    }
+  },
+  "delta-clamperl": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1635"
+    }
+  },
+  "delta-huntail": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1636"
+    }
+  },
+  "delta-gorebyss": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1637"
+    }
+  },
+  "delta-beldum-spider": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1638"
+    }
+  },
+  "delta-metang-spider": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1639"
+    }
+  },
+  "delta-metagross-spider": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1640"
+    }
+  },
+  "delta-beldum-ruin": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1641"
+    }
+  },
+  "delta-metang-ruin": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1642"
+    }
+  },
+  "delta-metagross-ruin": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1643"
+    }
+  },
+  "delta-buneary": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1644"
+    }
+  },
+  "delta-lopunny": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1645"
+    }
+  },
+  "delta-riolu": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1646"
+    }
+  },
+  "delta-lucario": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1647"
+    }
+  },
+  "delta-croagunk": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1648"
+    }
+  },
+  "delta-toxicroak": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1649"
+    }
+  },
+  "delta-venipede": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1650"
+    }
+  },
+  "delta-whirlipede": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1651"
+    }
+  },
+  "delta-scolipede": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1652"
+    }
+  },
+  "delta-petilil-water": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1653"
+    }
+  },
+  "delta-lilligant-water": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1654"
+    }
+  },
+  "delta-petilil-fairy": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1655"
+    }
+  },
+  "delta-lilligant-fairy": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1656"
+    }
+  },
+  "delta-solosis": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1657"
+    }
+  },
+  "delta-duosion": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1658"
+    }
+  },
+  "delta-reuniclus": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1659"
+    }
+  },
+  "delta-darumaka": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1660"
+    }
+  },
+  "delta-darmanitan": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1661"
+    }
+  },
+  "delta-maractus": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1662"
+    }
+  },
+  "delta-dwebble-berry": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1663"
+    }
+  },
+  "delta-crustle-berry": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1664"
+    }
+  },
+  "delta-dwebble-cake": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1665"
+    }
+  },
+  "delta-crustle-cake": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1666"
+    }
+  },
+  "delta-yamask": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1667"
+    }
+  },
+  "delta-cofagrigus": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1668"
+    }
+  },
+  "delta-emolga": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1669"
+    }
+  },
+  "delta-karrablast": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1670"
+    }
+  },
+  "delta-escavalier": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1671"
+    }
+  },
+  "delta-foongus": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1672"
+    }
+  },
+  "delta-amoongus": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1673"
+    }
+  },
+  "delta-litwick": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1674"
+    }
+  },
+  "delta-lampent": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1675"
+    }
+  },
+  "delta-chandelure": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1676"
+    }
+  },
+  "delta-axew": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1677"
+    }
+  },
+  "delta-fraxure": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1678"
+    }
+  },
+  "delta-haxorus": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1679"
+    }
+  },
+  "delta-golett": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1680"
+    }
+  },
+  "delta-golurk": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1681"
+    }
+  },
+  "delta-heatmor": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1682"
+    }
+  },
+  "delta-deino": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1683"
+    }
+  },
+  "delta-zweilous": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1684"
+    }
+  },
+  "delta-hydreigon": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1685"
+    }
+  },
+  "delta-larvesta": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1686"
+    }
+  },
+  "delta-volcarona": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1687"
+    }
+  },
+  "delta-amaura": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1688"
+    }
+  },
+  "delta-aurorus": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1689"
+    }
+  },
+  "delta-goomy": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1690"
+    }
+  },
+  "delta-sliggoo": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1691"
+    }
+  },
+  "delta-goodra": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1692"
+    }
+  },
+  "delta-regirock": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1693"
+    }
+  },
+  "delta-regice": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1694"
+    }
+  },
+  "delta-registeel": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1695"
+    }
+  },
+  "delta-meloetta": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1696"
+    }
+  },
+  "delta-hoopa": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1697"
+    }
+  },
+  "ufi": {
+    "data": {
+      "base": "modules/ptr2e-pkmn-sprites/sprites/1698"
+    }
+  },
   "deoxys": {
     "data": {
       "base": "modules/ptr2e-pkmn-sprites/sprites/386"
